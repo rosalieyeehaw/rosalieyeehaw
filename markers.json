@@ -358,5 +358,22 @@
     "lng": "16.607647",
     "title": "Rašínova ulice",
     "desc": "rasinova-ulice.html"
+  },
+  {
+    "lat": "50.079741",
+    "lng": "14.460413",
+    "title": "Jičínova ulice",
+    "desc": "jicinova-ulice.html"
+  },
+    {
+    "lat": "50.082490",
+    "lng": "14.457307",
+    "title": "Olšanské náměstí",
+    "desc": "olsanske-namesti.html"
+  },
+  {
+    "lat": "50.087352",
+    "lng": "14.452996",
+    "title": "Žižkovský tunel",
+    "desc": "zizkovsky-tunel.html"
   }
-]
